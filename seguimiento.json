@@ -1,0 +1,9 @@
+{
+    "host": "propuesta-laboral-goodwin.innodite.com",
+    "nombre": "Goodwin Recruiting (Thu Van Nguyen)",
+    "codigos": {
+        "g1": "Postulación (formulario o correo)",
+        "g2": "Nota de conexión de LinkedIn"
+    },
+    "minimo": false
+}
